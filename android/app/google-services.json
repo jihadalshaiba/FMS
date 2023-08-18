@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119360378870",
+    "project_id": "fms-project-4e729",
+    "storage_bucket": "fms-project-4e729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119360378870:android:a55d0e2ff5d8d8e09d99d7",
+        "android_client_info": {
+          "package_name": "com.example.fmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119360378870-7s5p1j92n0voj3pelnlo3j07lnbcq40v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQRLIisrjkSfa8Mjo30hePSwo9cQGJCxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119360378870-7s5p1j92n0voj3pelnlo3j07lnbcq40v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
